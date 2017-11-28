@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:SocNetTest"
              x:Class="SocNetTest.MainPage">
 
-  <Label Text="Welcome to Xamarin Forms!"
+  <Label Text="Welcome to Xamarin"
            VerticalOptions="Center"
            HorizontalOptions="Center" />
 
